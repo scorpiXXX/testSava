@@ -1,0 +1,9 @@
+body {
+    background-image: url("img/abstract-neon-background-free-vector.jpg");
+    color: rgb(2, 0, 17);
+    text-shadow: 5px 5px 5px rgb(0, 255, 255);
+    text-align: center;
+}
+.me {
+    text-decoration-line: underline;
+}

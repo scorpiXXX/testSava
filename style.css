@@ -1,0 +1,7 @@
+body {
+    background-image: url("img/meme_cat.jpg");
+    text-align: center;
+    color: rgb(103, 54, 228);
+    text-shadow: 2px 2px 5px rgb(0, 255, 38);
+    font-size: 30px;
+}
